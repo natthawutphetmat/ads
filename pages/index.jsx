@@ -28,7 +28,7 @@ export default function index() {
         <About />
         <Link href="https://lin.ee/gLQY1oN"  >
       
-          <img src="/img/img/line.png"  className='bounce' width={50} fetchpriority="high" />
+          <img src="/img/img/line.png"  className='bounce' width={50} />
         </Link>
        
       </div>

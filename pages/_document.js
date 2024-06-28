@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          {/* เพิ่มโค้ด Google Tag Manager ที่คุณได้รับจาก GTM */}
+       
           <script
             async
             src="https://www.googletagmanager.com/gtag/js?id=AW-16550229410"
